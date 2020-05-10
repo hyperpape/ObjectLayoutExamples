@@ -1,0 +1,47 @@
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+# WARNING: Unable to attach Serviceability Agent. sun.jvm.hotspot.memory.Universe.getNarrowOopBase()
+1
+5
+Label ""
+java.lang.String@11011977d object externals:
+          ADDRESS       SIZE TYPE             PATH                           VALUE
+        7fff00000         16 [B               .value                         []
+        7fff00010         24 java.lang.String                                (object)
+
+
+Label "1"
+java.lang.String@4891b8c3d object externals:
+          ADDRESS       SIZE TYPE             PATH                           VALUE
+        7fff004b0         24 [B               .value                         [49]
+        7fff004c8         24 java.lang.String                                (object)
+
+
+Label 劫
+java.lang.String@711f39f9d object externals:
+          ADDRESS       SIZE TYPE             PATH                           VALUE
+        716b31160         24 java.lang.String                                (object)
+        716b31178         24 [B               .value                         [-85, 82]
+
+
+Label 井山 裕太
+java.lang.String@7f13d6ed object externals:
+          ADDRESS       SIZE TYPE             PATH                           VALUE
+        716b35160         24 java.lang.String                                (object)
+        716b35178         32 [B               .value                         [-107, 78, 113, 92, 32, 0, -43, -120, 42, 89]
+
+
+Label "01234567"
+java.lang.String@d44fc21d object externals:
+          ADDRESS       SIZE TYPE             PATH                           VALUE
+        716b39238         24 java.lang.String                                (object)
+        716b39250         24 [B               .value                         [48, 49, 50, 51, 52, 53, 54, 55]
+
+
+Label 
+345678"
+java.lang.String@2d6eabaed object externals:
+          ADDRESS       SIZE TYPE             PATH                           VALUE
+        716b3d258         24 java.lang.String                                (object)
+        716b3d270         32 [B               .value                         [48, 49, 50, 51, 52, 53, 54, 55, 56]
+
+

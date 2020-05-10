@@ -1,0 +1,32 @@
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+# WARNING: Unable to attach Serviceability Agent. sun.jvm.hotspot.memory.Universe.getNarrowOopBase()
+boolean[0]: 16
+boolean[1]: 24
+boolean[8]: 24
+boolean[9]: 32
+boolean[1024]: 1040
+byte[0]: 16
+byte[1]: 24
+byte[8]: 24
+byte[9]: 32
+byte[1024]: 1040
+char[0]: 16
+char[1]: 24
+char[8]: 32
+char[9]: 40
+char[1024]: 2064
+int[0]: 16
+int[1]: 24
+int[8]: 48
+int[9]: 56
+int[1024]: 4112
+long[0]: 16
+long[1]: 24
+long[8]: 80
+long[9]: 88
+long[1024]: 8208
+Object[0]: 16
+Object[1]: 24
+Object[8]: 48
+Object[9]: 56
+Object[1024]: 4112

@@ -1,0 +1,26 @@
+Instantiated the sample instance via default constructor.
+
+# WARNING: Unable to get Instrumentation. Dynamic Attach failed. You may add this JAR as -javaagent manually, or supply -Djdk.attach.allowAttachSelf
+# WARNING: Unable to attach Serviceability Agent. sun.jvm.hotspot.memory.Universe.getNarrowOopBase()
+Instantiated the sample instance via public java.lang.Boolean(boolean)
+
+Instantiated the sample instance via public java.lang.Character(char)
+
+Instantiated the sample instance via public java.lang.Integer(int)
+
+Instantiated the sample instance via public java.lang.Float(double)
+
+Instantiated the sample instance via public java.lang.Boolean(boolean)
+
+Instantiated the sample instance via public java.lang.Double(double)
+
+Instantiated the sample instance via public java.lang.Long(long)
+
+java.lang.Object: 16
+java.lang.Boolean: 16
+java.lang.Character: 16
+java.lang.Integer: 16
+java.lang.Float: 16
+java.lang.Boolean: 16
+java.lang.Double: 24
+java.lang.Long: 24
